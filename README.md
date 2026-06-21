@@ -117,6 +117,6 @@
 
  LinkedIn: https://www.linkedin.com/in/atharva-kumbhar-749724264/
 
- GitHub: [https:github.com/Atharvakumbhar1007/](https://github.com/Atharvakumbhar1007)
+ GitHub: https://github.com/Atharvakumbhar1007
 
 ---
